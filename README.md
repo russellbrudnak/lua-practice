@@ -1,0 +1,2 @@
+# lua-practice
+ learning lua
